@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi there 👋, I'm @Weasel01
-![](https://raw.githubusercontent.com/Weasel01/Weasel01/main/pxlwzl.gif)![](https://raw.githubusercontent.com/Weasel01/Weasel01/main/pxlwzl.gif)![](https://raw.githubusercontent.com/Weasel01/Weasel01/main/pxlwzl.gif)![](https://raw.githubusercontent.com/Weasel01/Weasel01/main/pxlwzl.gif)![](https://raw.githubusercontent.com/Weasel01/Weasel01/main/pxlwzl.gif)
+![](https://raw.githubusercontent.com/Weasel01/Weasel01/main/pxlwzl.png)
 
 Skills: 🐍Python / 🦀Rust
 
